@@ -20,6 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @version: V1.0
  * @modified: yangkai.shen
  */
+
 @SpringBootApplication
 @RestController
 public class SpringBootDemoHelloworldApplication {
